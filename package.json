@@ -1,6 +1,6 @@
 {
   "name": "imagemagick-cloudway-proj",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Library used by cloudway for lectures etc. using imagemagick",
   "main": "src/index.js",
   "repository": "https://github.com/becloudway/imagemagick-cloudway-proj",
