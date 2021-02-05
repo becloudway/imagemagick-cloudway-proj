@@ -1,0 +1,19 @@
+{
+  "name": "imagemagick-cloudway-proj",
+  "version": "0.0.1",
+  "description": "Library used by cloudway for lectures etc. using imagemagick",
+  "main": "src/index.js",
+  "repository": "https://github.com/becloudway/imagemagick-cloudway-proj",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Cloudway NV",
+  "license": "MIT",
+  "dependencies": {
+    "yn": "^4.0.0"
+  },
+  "devDependencies": {
+    "jest-image-snapshot": "^4.3.0",
+    "jest": "^26.6.3"
+  }
+}
